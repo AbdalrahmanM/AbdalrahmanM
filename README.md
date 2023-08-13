@@ -4,6 +4,7 @@
 🎓 My educational journey at Sakarya University equipped me with comprehensive knowledge in computer engineering, laying the groundwork for my career in the tech realm. As a recent graduate, I'm eager to leverage my skills and enthusiasm to contribute effectively in the field.
 
 🚀 Proficient across a range of coding languages and frameworks, I'm well-versed in:
+
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -16,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 💼 **Projects:**
-- **Capstone Project - Next.js Web Application:** As a part of my academic journey, I successfully contributed to a Next.js project for the capstone project. Collaborating with a team, we developed a [brief project description], showcasing my ability to apply modern web development techniques.
+Capstone Project - Next.js Web Application:** As a part of my academic journey, I successfully contributed to a Next.js project for the capstone project. Collaborating with a team, we developed a [brief project description], showcasing my ability to apply modern web development techniques.
 
 🌟 I'm particularly enthusiastic about roles as a front-end developer and React developer. My goal is to specialize in crafting captivating user interfaces and dynamic web experiences. Whether it's shaping the user experience or contributing to a React-driven project, I'm ready to make meaningful contributions.
 
